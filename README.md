@@ -20,3 +20,7 @@
 <br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-santos-837b2417a/)
+
+<br>
+
+![Snake animation](https://github.com/PietroReis/DevPietroReis/blob/output/github-contribution-grid-snake.svg)
