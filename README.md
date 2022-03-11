@@ -23,4 +23,3 @@
 
 <br>
 
-![Snake animation](https://github.com/PietroReis/DevPietroReis/blob/output/github-contribution-grid-snake.svg)
